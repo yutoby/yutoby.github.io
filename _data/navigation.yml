@@ -15,8 +15,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
+  #- title: "CV"
+  #  url: https://yutoby.github.io/cv/
+
   - title: "CV"
-    url: https://yutoby.github.io/cv/
+      url: https://drive.google.com/file/d/1-rOptLtWsvQmhnunyzc8fCdH2jPRdFzo/view?usp=sharing
     
   #- title: "Guide"
   #  url: /markdown/
