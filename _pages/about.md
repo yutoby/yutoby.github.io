@@ -10,11 +10,11 @@ redirect_from:
 
 About Me
 ===
-I obtained my bachelor degree in Electrical Engineering at National Taiwan University(NTU). My research interests focus on **Computer Architecture / VLSI design**, especially on machine learning acceleration.
+I graduated from National Taiwan University (NTU) with a Bachelor's degree in Electrical Engineering. My research interests lie in **Computer Architecture / VLSI Design**, specifically focusing on machine learning acceleration. Additionally, I am interested in hardware-aware machine learning and agile hardware design.
 
-I have the privilege to work with Prof. Tsung-Te Liu on **energy-efficient keword spotting accelerator**, and Prof. An-Yeu Wu on **energy‑aware pruning for NVM‑based computing‑in‑memory
-architecture for vision transformer** and **retraining‑free constraint‑aware token pruning for vision transformer**. 
+Under the guidance of Prof. Tsung-Te Liu, I worked on energy-efficient keyword spotting accelerators. With Prof. An-Yeu Wu, I research on energy-aware pruning for non-volatile memory-based computing-in-memory architecture for vision transformers, along with retraining-free constraint-aware token pruning for vision transformers. During an internship at the Industrial Technology Research Institute, I explored event-based spiking neural network processors.
 
+Currently, I am actively seeking admission to a Ph.D. program for the Fall of 2024.
 
 Publication
 ---
