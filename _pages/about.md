@@ -18,7 +18,7 @@ Currently, I am actively seeking a Ph.D. program for the Fall of 2024.
 
 Publication
 ---
-Retraining-free Constraint-aware Token Pruning for Vision Transformer on Edge Devices /newline
+Retraining-free Constraint-aware Token Pruning for Vision Transformer on Edge Devices\
 _Yun-Chia Yu*_, Mao-Chi Weng*, Ming-Guang Lin, An-Yue Wu
 
 Projects
