@@ -14,10 +14,12 @@ I graduated from National Taiwan University (NTU) with a Bachelor's degree in El
 
 Under the guidance of Prof. Tsung-Te Liu, I worked on energy-efficient keyword spotting accelerators. With Prof. An-Yeu Wu, I research on energy-aware pruning for non-volatile memory-based computing-in-memory architecture for vision transformers, along with retraining-free constraint-aware token pruning for vision transformers. During an internship at the Industrial Technology Research Institute, I explored event-based spiking neural network processors.
 
-Currently, I am actively seeking admission to a Ph.D. program for the Fall of 2024.
+Currently, I am actively seeking a Ph.D. program for the Fall of 2024.
 
 Publication
 ---
+Retraining-free Constraint-aware Token Pruning for Vision Transformer on Edge Devices
+_Yun-Chia Yu*_, Mao-Chi Weng*, Ming-Guang Lin, An-Yue Wu
 
 Projects
 ---
