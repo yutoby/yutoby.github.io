@@ -16,11 +16,13 @@ Under the guidance of Prof. Tsung-Te Liu, I worked on energy-efficient keyword s
 
 Currently, I am actively seeking a Ph.D. program for the Fall of 2024.
 
+<!--
 Publication
 ---
 Retraining-free Constraint-aware Token Pruning for Vision Transformer on Edge Devices\
 <u>Yun-Chia Yu*</u>, Mao-Chi Weng*, Ming-Guang Lin, An-Yue Wu\
 IEEE International Symposium on Circuits and Systems (ISCAS), 2024 (Under Review) [paper](https://yutoby.github.io/files/Retraining-free Constraint-aware Token Pruning for Vision Transformer on Edge Devices.pdf)
+-->
 
 Contact Me
 ---
