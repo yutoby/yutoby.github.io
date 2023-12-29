@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yun-Chia Yu"
   avatar           : "yunchiayu_crop_v2.jpg"
-  bio              :  # "Your biography for the left-hand sidebar"
+  bio              :  "   " # "Your biography for the left-hand sidebar"
   location         : "Taiwan"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
