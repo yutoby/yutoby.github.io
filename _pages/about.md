@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yun-Chia Yu"
-excerpt: "About me"
+title: "YunChia Yu"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
