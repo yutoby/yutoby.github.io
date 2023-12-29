@@ -25,9 +25,3 @@ IEEE International Symposium on Circuits and Systems (ISCAS), 2024 (Under Review
 Contact Me
 ---
 Email: yunchiayu1206@gmail.com
-
-Other
----
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io)
-
-
