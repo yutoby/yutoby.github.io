@@ -8,8 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a bachelor's student in the Department of Electrical Engineering at National Taiwan University(NTU). My research interests focus on **Computer Architecture / VLSI design**, especially on machine learning acceleration.
+About Me
+---
+I obtained my bachelor degree in Electrical Engineering at National Taiwan University(NTU). My research interests focus on **Computer Architecture / VLSI design**, especially on machine learning acceleration.
 
+Research Experiences
+---
+
+Publication
+---
+
+
+Other
+---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io)
 
 
